@@ -1,0 +1,34 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":251,"Ip":"172.24.224.1","Level":40,"Message":"TRANSACTION ERROR","DateTime":"2022-07-02 01:10:53","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":-545,"Ip":"172.24.224.1","Level":40,"Message":"TRANSACTION ERROR","DateTime":"2022-07-05 10:36:30","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":6,"Ip":"172.24.224.1","Level":40,"Message":"TRANSACTION ERROR","DateTime":"2022-07-05 10:36:32","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":15,"Ip":"172.24.224.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-05 10:37:08","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":14,"Ip":"172.24.224.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-05 10:37:10","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":17,"Ip":"172.24.224.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-05 10:37:11","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":-404,"Ip":"172.24.224.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-06 12:13:00","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":503,"Ip":"172.22.144.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-07 10:59:33","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":201,"ResponseTime":42,"Ip":"172.22.144.1","Level":20,"Message":"TRANSACTION SUCCESS","DateTime":"2022-07-08 12:52:45","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":8,"Ip":"172.22.144.1","Level":40,"Message":"TRANSACTION ERROR","DateTime":"2022-07-08 12:56:34","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":17,"Ip":"172.22.144.1","Level":40,"Message":"TRANSACTION ERROR","DateTime":"2022-07-08 01:00:50","version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":-84,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":28,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":452,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":40,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":-685,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":-164,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":29,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":18,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":380,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":31,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":-982,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
+{"Name":"WebServicesEnrollment","HostName":"LAPTOP-39VHL5M5","ApiKey":"N/A","Uri":"/EnrollmentService.asmx","ResponseCode":503,"ResponseTime":82,"Ip":"172.22.144.1","Level":40,"Message":"Error al momento de llamar al procedimiento almacenado...","DateTime":null,"version":"V1"}
